@@ -1,0 +1,36 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# The above is from https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
+
+# https://stackoverflow.com/a/65429032/13631346
+![iI]con[_a-zA-Z0-9]
+
+# ableton live's icon file
+Icon?
+
+# GMaudio Devices https://maxforlive.com/library/device/6953/gmaudio-clipper
+# https://discord.com/channels/792548621806600212/792553300258979901/1076973931300397186
+patchers/GMaudio\ Clipper\ 1.1.amxd
+patchers/GMaudio\ Clipper\ 1.1.amxd.maxpat
