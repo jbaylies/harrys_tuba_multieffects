@@ -447,7 +447,95 @@
 						}
  ],
 					"wah_sens" : [ 4 ],
-					"wah_rez" : [ 0.9 ]
+					"wah_rez" : [ 0.9 ],
+					"overdrive_rnbo" : [ 						{
+							"filetype" : "C74Snapshot",
+							"version" : 2,
+							"minorversion" : 0,
+							"name" : "untitled",
+							"origin" : "74a09b97-f360-11ea-9b97-34363bd3ed8c",
+							"type" : "rnbo",
+							"subtype" : "",
+							"embed" : 1,
+							"snapshot" : 							{
+								"__sps" : 								{
+									"Drive~" : 									{
+
+									}
+,
+									"Volume~" : 									{
+
+									}
+,
+									"Pre-EQ~" : 									{
+
+									}
+,
+									"Post-EQ~" : 									{
+										"__sps" : 										{
+											"Mid~" : 											{
+
+											}
+,
+											"Treble~" : 											{
+
+											}
+,
+											"Bass~" : 											{
+
+											}
+
+										}
+
+									}
+,
+									"Mix~" : 									{
+
+									}
+
+								}
+,
+								"treble" : 								{
+									"value" : -30.0
+								}
+,
+								"drive" : 								{
+									"value" : 70.0
+								}
+,
+								"bass" : 								{
+									"value" : 0.0
+								}
+,
+								"midfreq" : 								{
+									"value" : -35.0
+								}
+,
+								"highcut" : 								{
+									"value" : 65.0
+								}
+,
+								"mid" : 								{
+									"value" : -65.0
+								}
+,
+								"lowcut" : 								{
+									"value" : 30.0
+								}
+,
+								"volume" : 								{
+									"value" : 40.0
+								}
+,
+								"mix" : 								{
+									"value" : 100.0
+								}
+,
+								"__presetid" : "74a09b97-f360-11ea-9b97-34363bd3ed8c"
+							}
+
+						}
+ ]
 				}
 
 			}
